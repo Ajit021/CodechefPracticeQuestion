@@ -1,0 +1,13 @@
+#include<bits/stdc++.h>
+using namespace std;
+main()
+{
+	int t;
+	cin>>t;
+	while(t--)
+	{
+		int  n;
+		cin>>n;
+		cout<<"1"<<" "<<pow(2,n)<<" ";
+	}
+}
